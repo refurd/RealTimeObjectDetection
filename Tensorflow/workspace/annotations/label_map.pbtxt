@@ -1,0 +1,16 @@
+item { 
+	name:'arm_fo'
+	id:1
+}
+item { 
+	name:'hand_fi'
+	id:2
+}
+item { 
+	name:'hand_pa'
+	id:3
+}
+item { 
+	name:'hand_po'
+	id:4
+}

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>hand_fi.9ca117b4-77b9-11eb-bd80-606d3c4bbeec.jpg</filename>
+	<path>C:\Users\Dominik\Documents\GIT\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\hand_fi.9ca117b4-77b9-11eb-bd80-606d3c4bbeec.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand_fi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymin>167</ymin>
+			<xmax>377</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>
